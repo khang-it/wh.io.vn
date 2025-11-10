@@ -1,0 +1,2 @@
+import{p as o,y as r,j as f,m as p,B as n,f as i,d as m,h as c}from"./index-Bv_joPAE.js";var u=i('<div class="w-full h-full"><iframe src="/timelines.html" width="100%" height="800px" style="border:none;"></iframe></div>');function h(s,t){o(t,!1);const a=p();let e="https://vnexpress.net";console.log("value:",e),r(()=>{},()=>{f(a,encodeURIComponent(e))}),n();var l=u();m(s,l),c()}export{h as default};
+//# sourceMappingURL=HomeDetail-DpJtmi39.js.map

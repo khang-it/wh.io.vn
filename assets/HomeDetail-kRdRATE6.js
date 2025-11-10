@@ -1,2 +1,0 @@
-import{p as o,y as r,d as p,m as n,z as f,t as i,j as c,k as m}from"./index-DtlnRXPp.js";var u=i('<div class="w-full h-full"><iframe src="/timelines.html" width="100%" height="800px" style="border:none;"></iframe></div>');function h(t,s){o(s,!1);const a=n();let e="https://vnexpress.net";console.log("value:",e),r(()=>{},()=>{p(a,encodeURIComponent(e))}),f();var l=u();c(t,l),m()}export{h as default};
-//# sourceMappingURL=HomeDetail-kRdRATE6.js.map
